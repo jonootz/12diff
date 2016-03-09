@@ -6,6 +6,5 @@
   <TocEntry
     Title="two" />
   <TocEntry
-    Title="three"
-    Link="/Content/three.htm" />
+    Title="three" />
 </CatapultToc>
