@@ -5,8 +5,7 @@
     Title="Topic"
     Link="/Content/Topic.htm" />
   <TocEntry
-    Title="two"
-    Link="/Content/two.htm" />
+    Title="two" />
   <TocEntry
     Title="three"
     Link="/Content/three.htm" />
