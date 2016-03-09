@@ -2,8 +2,7 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="Topic"
-    Link="/Content/Topic.htm" />
+    Title="Topic" />
   <TocEntry
     Title="two" />
   <TocEntry
